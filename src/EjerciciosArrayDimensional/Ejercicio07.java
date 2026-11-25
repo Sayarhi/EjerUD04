@@ -14,7 +14,6 @@ public class Ejercicio07 {
 
         //Array
         int[]num=new int[100];
-        int datos;
         int datos1=0;
         int datos2=0;
 
@@ -47,7 +46,6 @@ public class Ejercicio07 {
                 System.out.print(num[i]+" , ");
             }
         }
-        
-
+        sc.close();
     }
 }
