@@ -44,7 +44,7 @@ public class Ejercicio10 {
             indice++;
         }
 
-        // 4. Mostrar el array final ordenado (pares primero, impares después)
+        //Mostrar el array final ordenado (pares primero, impares después)
         System.out.println("\n\nArray con pares primero e impares después:");
         for (int i = 0; i < num.length; i++) {
             System.out.print(num[i] + "  ");
